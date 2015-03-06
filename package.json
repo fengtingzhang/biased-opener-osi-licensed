@@ -1,5 +1,5 @@
 {
-  "name": "biased-opener",
+  "name": "biased-opener-osi-licensed",
   "version": "0.2.3",
   "description": "Cross-platform, opens a URL with one of the browsers passed as parameter (if available in the system), preferably default browser of the user",
   "author": "Jakub Gieryluk <jakub.g.opensource@gmail.com>",
